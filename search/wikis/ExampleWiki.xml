@@ -1,0 +1,31 @@
+<xml>
+    <page>
+        <title>Zarf</title>
+        <id>0</id>
+        <text>
+            Zarf is a historical holder or sleeve used to insulate hot beverage cups in the 19th century.
+
+            ==References==
+            *[[Cup sleeve]]
+            *[[Tableware]]
+            *[[Beverage history|(https://us.coca-cola.com/)]]
+        </text>
+    </page>
+    <page>
+        <title>Tableware</title>
+        <id>1</id>
+        <text>
+            Tables tables tables tables! Tables?
+        </text>
+    </page>
+    <page>
+        <title>Cup sleeve</title>
+        <id>2</id>
+        <text>
+            A zarf (see *[[Zarf]]) is a cup sleeve.
+
+            ==See also==
+            *[[Tableware]]
+        </text>
+    </page>
+</xml>

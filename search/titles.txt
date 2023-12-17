@@ -1,0 +1,3 @@
+0::Zarf
+1::Tableware
+2::Cup sleeve
